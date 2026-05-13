@@ -86,4 +86,4 @@ This project successfully provisions AWS infrastructure and deploys a web applic
 ---
 
 ## 👨‍💻 Author
-**Tharun**
+**Tharun Kumaran M**
